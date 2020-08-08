@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package aplicacionescritorioejemplo;
+package calculadoralaboratorio1;
 
 /**
  *
@@ -46,12 +46,5 @@ public class LogicaCalculadora {
     {
        return Math.cos(num1);
     }
-    
-    
-    
-    
-    
-    
-    
-    
+
 }
